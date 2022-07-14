@@ -68,6 +68,7 @@
     "dotenv-cli": "^4.0.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-lodash-fp": "2.2.0-a1",
@@ -82,7 +83,7 @@
     ]
   },
   "license": "MIT",
-  "name": "react_18_boilerplate",
+  "name": "booking-app",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
